@@ -19,4 +19,4 @@ Because a [ROACH1 1](https://casper.ssl.berkeley.edu/wiki/ROACH) is used as the 
 
 ## Notice: 
 
-*Scripts in charge of data processing will be upload soon-
+*Scripts in charge of data processing will be upload soon*
